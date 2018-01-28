@@ -4,4 +4,4 @@ Boilerplate examples to implement SharedStreets using different platforms & buil
 
 - [`create-react-app`](create-react-app)
 - [`webpack`](webpack)
-
+- [`webpack-typescript`](webpack-typescript)
