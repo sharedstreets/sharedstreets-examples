@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "webpack",
+  "main": "bundle.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "awesome-typescript-loader": "*",
+    "typescript": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  },
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "sharedstreets": "*"
+  }
+}
