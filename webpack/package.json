@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "webpack",
+  "main": "bundle.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  },
+  "dependencies": {
+    "axios": "*",
+    "sharedstreets": "*",
+    "sharedstreets-pbf": "*"
+  }
+}
