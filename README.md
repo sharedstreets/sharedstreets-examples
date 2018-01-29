@@ -6,3 +6,5 @@ Boilerplate examples to implement SharedStreets using different platforms & buil
 - [`webpack`](webpack)
 - [`webpack-typescript`](webpack-typescript)
 - [`webpack-typescript-react`](webpack-typescript-react)
+- rollup
+- vuejs
