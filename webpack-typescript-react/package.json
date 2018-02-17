@@ -14,8 +14,10 @@
     "webpack-dev-server": "*"
   },
   "dependencies": {
+    "axios": "*",
     "react": "*",
     "react-dom": "*",
-    "sharedstreets": "*"
+    "sharedstreets": "*",
+    "sharedstreets-pbf": "*"
   }
 }

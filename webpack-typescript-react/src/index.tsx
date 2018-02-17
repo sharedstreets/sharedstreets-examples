@@ -13,7 +13,7 @@ const Intersection = (props: {x: number, y: number}) =>
 
 const Geometry = (props: {geometry: SharedStreetsGeometry}) =>
   <div>
-    <h1>Geometry [{props.geometry.latlons}]</h1>
+    <h1>Geometry [{props.geometry.lonlats}]</h1>
     <h2>Id => {props.geometry.id}</h2>
   </div>
 
