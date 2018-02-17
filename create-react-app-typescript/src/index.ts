@@ -15,8 +15,8 @@ axios.get(url, {responseType: 'arraybuffer'}).then(buffer => {
 })
 
 // GeoJSON Data
-const line = lineString([[-76.84212620000001, 38.256918600000006], [-76.8428299, 38.257417100000005]]);
+const geojson = lineString([[-76, 40], [-75, 38]]);
 
-for (const object of conflator(line)) {
+for (const object of conflator(geojson)) {
   console.log(object)
 }
